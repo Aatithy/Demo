@@ -1,4 +1,4 @@
 # Demo
 this is my first git repo.
 <br>
-By-Aatithya Raval
+By-Aatithya A Raval
